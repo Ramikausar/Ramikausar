@@ -215,7 +215,7 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" height="60"/>
 </a>
 
-<a href="https://linkedin.com/in/ramikausar">
+<a href="https://linkedin.com/in/kausarrami">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="60"/>
 </a>
 
