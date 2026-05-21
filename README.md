@@ -193,17 +193,20 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramikausar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=FF6FD8&text_color=ffffff" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriParimiDev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=ffffff" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriParimiDev&theme=radical&hide_border=true&background=0D1117&stroke=C77DFF&ring=FF6FD8&fire=FF6FD8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramikausar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramikausar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ramikausar&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramikausar&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 ---
