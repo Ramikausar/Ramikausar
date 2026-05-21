@@ -194,31 +194,17 @@
 # 📊 GitHub Analytics
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=nord_dark" />
 
-</div>
+<br><br>
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=nord_dark" width="70%" />
 
-<table align="center">
-<tr>
-<td align="center">
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=nord_dark" width="45%" />
 
-</td>
-<td align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=nord_dark&utcOffset=5.5" width="45%" />
 
 </div>
 ---
