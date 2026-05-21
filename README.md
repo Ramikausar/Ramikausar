@@ -192,36 +192,44 @@
 ---
 
 # 📊 GitHub Analytics
-<table>
-<tr>
-<td width="65%">
+<details open>
+<summary><b>📈 Activity Intelligence</b></summary>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=tokyonight"/>
+<br>
 
-</td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=tokyonight" />
 
-<td width="35%">
+</details>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=tokyonight"/>
+<details open>
+<summary><b>⚡ Development Metrics</b></summary>
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=tokyonight" width="45%" />
 
-</td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5" width="45%" />
 
-<td>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5"/>
+</details>
 
-</td>
-</tr>
-</table>
----
+<details open>
+<summary><b>🔍 Language Reconnaissance</b></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=tokyonight" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramikausar&theme=tokyonight" width="45%" />
+
+</div>
+
+</details>---
 
 # 🌐 Connect With Me
 
