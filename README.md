@@ -203,6 +203,12 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5" width="49%" />
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramikausar&theme=tokyonight" width="49%" />
+
 </div>
   
   ---
