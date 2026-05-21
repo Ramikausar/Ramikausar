@@ -192,21 +192,35 @@
 ---
 
 # 📊 GitHub Analytics
-<div align="center">
+<table>
+<tr>
+<td width="65%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=tokyonight"/>
 
-<br><br>
+</td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=nord_dark" width="70%" />
+<td width="35%">
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=nord_dark" width="45%" />
+</td>
+</tr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=nord_dark&utcOffset=5.5" width="45%" />
+<tr>
+<td>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5"/>
+
+</td>
+</tr>
+</table>
 ---
 
 # 🌐 Connect With Me
