@@ -195,16 +195,17 @@
 
 <div align="center">
 
-<img height="210em" src="https://github-readme-stats.vercel.app/api?username=Ramikausar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramikausar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=FF6FD8&text_color=ffffff" alt="GitHub Stats" />
 
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramikausar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramikausar&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriParimiDev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriParimiDev&theme=radical&hide_border=true&background=0D1117&stroke=C77DFF&ring=FF6FD8&fire=FF6FD8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" alt="GitHub Streak" />
+
+</div>
 ---
 
 # 🌐 Connect With Me
