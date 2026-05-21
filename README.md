@@ -193,14 +193,21 @@
 
 # 📊 GitHub Analytics
 
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramikausar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramikausar&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramikausar&theme=tokyonight" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramikausar&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramikausar&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramikausar&theme=tokyonight" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramikausar&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramikausar&theme=tokyonight&utcOffset=5.5" width="48%" />
 
 </div>
 ---
